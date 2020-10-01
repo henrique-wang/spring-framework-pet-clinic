@@ -48,8 +48,9 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:git@github.com:henrique-wang/spring-framework-pet-clinic.git</developerConnection>
-	  <tag>sfg-pet-clinic-0.0.2</tag>
-  </scm>
+		<url>https://github.com/henrique-wang/spring-framework-pet-clinic</url>
+		<connection>scm:git:https://github.com/henrique-wang/spring-framework-pet-clinic.git</connection>
+		<tag>sfg-pet-clinic-0.0.2</tag>
+	</scm>
 
 </project>
