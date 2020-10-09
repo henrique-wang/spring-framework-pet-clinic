@@ -65,6 +65,12 @@
             <artifactId>jquery-ui</artifactId>
             <version>${webjars-jquery-ui.version}</version>
          </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.14</version>
+            <scope>provided</scope>
+        </dependency>
          <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>bootstrap</artifactId>
